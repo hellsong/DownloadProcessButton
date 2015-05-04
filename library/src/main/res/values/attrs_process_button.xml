@@ -1,0 +1,18 @@
+<resources>
+    <declare-styleable name="ProcessButton">
+        <attr name="normalColor" format="color|reference" />
+        <attr name="processColor" format="color|reference" />
+        <attr name="completeColor" format="color|reference" />
+        <attr name="errorColor" format="color|reference" />
+        <attr name="normalText" format="string" />
+        <attr name="processText" format="string" />
+        <attr name="completeText" format="string" />
+        <attr name="errorText" format="string" />
+        <attr name="normalDrawable" format="reference" />
+        <attr name="processDrawable" format="reference" />
+        <attr name="processBGDrawable" format="reference" />
+        <attr name="completeDrawable" format="reference" />
+        <attr name="errorDrawable" format="reference" />
+        <attr name="drawHorizontal" format="boolean" />
+    </declare-styleable>
+</resources>
